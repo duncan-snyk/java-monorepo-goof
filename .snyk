@@ -1,0 +1,77 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.25.1
+ignore: {}
+patch: {}
+exclude:
+  global:
+    - dashboard
+    - "a*/"
+    - "b*/"
+    - "c*/"
+    - edu-services
+    - emailtemplateservice
+    - entitybroker
+    - external-calendaring-service
+    - feedback
+    - gradebookng
+    - help
+    - hierarchy
+    - jobscheduler
+    - jsf
+    - jsf2
+    - kernel
+    - lessonbuilder
+    - library
+    - licenses
+    - login
+    - mailarchive
+    - mailsender
+    - master
+    - message
+    - msgcntr
+    - mvnw
+    - mvnw.cmd
+    - mycalendar
+    - myconnections
+    - oauth
+    - oss-parent
+    - pack
+    - pasystem
+    - podcasts
+    - polls
+    - portal
+    - postem
+    - presence
+    - profile2
+    - providers
+    - reference
+    - reset-pass
+    - roster2
+    - rsf
+    - rubrics
+    - rwiki
+    - samigo
+    - search
+    - sections
+    - shortenedurl
+    - signup
+    - simple-rss-portlet
+    - site
+    - site-manage
+    - sitedescription
+    - sitemembers
+    - sitestats
+    - syllabus
+    - taggable
+    - tags
+    - textarea
+    - user
+    - userauditservice
+    - usermembership
+    - velocity
+    - web
+    - webapi
+    - webcomponents
+    - webjars
+    - webservices
+    - wicket
